@@ -1,0 +1,5 @@
+{
+    "port":"5000",
+    "mongoUrl": "mongodb+srv://Kremlejija:DOzlBIselhzrtp4y@cluster0.vhjz1.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret":"kremlejija"
+}
